@@ -6,7 +6,7 @@ subtitle: Research Engineer in Perception and Multi-Robot Systems
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: BharathPic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bush Combat Development Complex</p>
