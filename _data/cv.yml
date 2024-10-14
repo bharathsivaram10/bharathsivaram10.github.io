@@ -2,96 +2,84 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Bharath Sivaram
+    - name: Email
+      value: bharathsivaram10@gmail.com
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: M.S. Robotics
+      institution: University of Minnesota
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Lorem Ipsum
+	- Lorem Ipsum
+
+    - title: B.S. Mechanical Engineering
+      institution: University of Minnesota
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Built a strong foundation in control systems, dynamics, and automation.
+	- Acquired practical experience with sensors and actuators, integrating theoretical knowledge through hands-on projects
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Engineer II
+      institution: Bush Combat Development Center
+      year: 2023-Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Working on the Air-Ground Autonomy Team
+	- title: Working on multi-object tracking for autnonomous fleets:
+	  contents:
+            - Fusing camera and lidar for efficient object localization
+            - Hardware integration to allow for inter-vehicle observation sharing
+            - Extracting semantic information such as color and size to add to tracking algorithm
+            - Exploring and implementing deep-learning approaches to tracking
+            - Integrating within Army software stack to allow for enhanced mission planning
+    - title: Graduate Research Assistant
+      institution: University of Minnesota
+      year: 2022-2023
+      description:
+        - title: Worked under Professor Zongxuan Sun
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Developed a Fault Detection and Isolation (FDI) framework for Electro-hydraulic Actuators Model-based data generation for tool selection
+	    - Tested and optimized neural nets for application
+            - Presented at the CCEFP Summit to industry and academia
+            - Published work in ASME Letters in Dynamic System and Control 
+
+    - title: Mechanical Engineering Intern
+      institution: GRIP Molecular
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Designed outer housing and tested sample delivery methods for a graphene based POC (point of care) diagnostic device
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Undergraduate Research Assistant
+      institution: University of Minnesota
+      year: 2020-2021
       description:
+        - Investigated 2D flow dynamics by coding MATLAB simulations and building a test rig for physical experiments 
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Tools/Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Computer Vision
+      items: 
+        - Tools - Python, MATLAB, OpenCV, PyTorch, SciKit Learn, Open3D
+        - Skills - Segmentation, 6D Pose Estimation, Stereo Vision, Tracking, Camera Calibration
+    - title: Machine Learning
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Tools - Python, Pytorch, Ubuntu, Linux, Github, Weights&Biases, Cuda, Pandas, Numpy
+        - Skills - Training/Evaluation of Deep Networks, CNNs, Self-Supervised Learning, LSTMs
+    - title: Robotics
       items:
-        - Description 1.
-        - Description 2.
+        - Tools - ROS, PyBullet, PyRender, Ubuntu, Linux
+        - Skills - SLAM, Camera Calibration, Grasp Estimation
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Soccer, Basketball, Music, and Coffee

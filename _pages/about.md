@@ -9,7 +9,7 @@ profile:
   image: BharathPic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bush Combat Development Complex</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BCDC</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Minnesota</p>
 
 news: true # includes a list of news items
