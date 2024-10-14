@@ -14,14 +14,14 @@
       year: 2023
       description:
         - Lorem Ipsum
-	- Lorem Ipsum
+        - Lorem Ipsum
 
     - title: B.S. Mechanical Engineering
       institution: University of Minnesota
       year: 2021
       description:
         - Built a strong foundation in control systems, dynamics, and automation.
-	- Acquired practical experience with sensors and actuators, integrating theoretical knowledge through hands-on projects
+        - Acquired practical experience with sensors and actuators, integrating theoretical knowledge through hands-on projects.
 
 - title: Experience
   type: time_table
@@ -30,37 +30,36 @@
       institution: Bush Combat Development Center
       year: 2023-Present
       description:
-	- title: Working on multi-object tracking for autnonomous fleets:
-	  contents:
-            - Fusing camera and lidar for efficient object localization
-            - Hardware integration to allow for inter-vehicle observation sharing
-            - Extracting semantic information such as color and size to add to tracking algorithm
-            - Exploring and implementing deep-learning approaches to tracking
-            - Integrating within Army software stack to allow for enhanced mission planning
+        - title: Working on multi-object tracking for autonomous fleets
+          contents:
+            - Fusing camera and LiDAR data for efficient object localization.
+            - Hardware integration to enable inter-vehicle observation sharing.
+            - Extracting semantic information such as color and size for tracking algorithms.
+            - Exploring and implementing deep-learning approaches to tracking.
+            - Integrating within Army software stack to enhance mission planning.
+
     - title: Graduate Research Assistant
       institution: University of Minnesota
       year: 2022-2023
       description:
         - title: Worked under Professor Zongxuan Sun
           contents:
-            - Developed a Fault Detection and Isolation (FDI) framework for Electro-hydraulic Actuators Model-based data generation for tool selection
-	    - Tested and optimized neural nets for application
-            - Presented at the CCEFP Summit to industry and academia
-            - Published work in ASME Letters in Dynamic System and Control 
+            - Developed a Fault Detection and Isolation (FDI) framework for electro-hydraulic actuators, model-based data generation for tool selection.
+            - Tested and optimized neural nets for application.
+            - Presented at the CCEFP Summit to industry and academia.
+            - Published work in ASME Letters in Dynamic Systems and Control.
 
     - title: Mechanical Engineering Intern
       institution: GRIP Molecular
       year: 2021
       description:
-        - Designed outer housing and tested sample delivery methods for a graphene based POC (point of care) diagnostic device
+        - Designed outer housing and tested sample delivery methods for a graphene-based POC (point-of-care) diagnostic device.
 
     - title: Undergraduate Research Assistant
       institution: University of Minnesota
       year: 2020-2021
       description:
-        - Investigated 2D flow dynamics by coding MATLAB simulations and building a test rig for physical experiments 
-
-
+        - Investigated 2D flow dynamics by coding MATLAB simulations and building a test rig for physical experiments.
 
 - title: Tools/Skills
   type: nested_list
@@ -71,7 +70,7 @@
         - Skills - Segmentation, 6D Pose Estimation, Stereo Vision, Tracking, Camera Calibration
     - title: Machine Learning
       items:
-        - Tools - Python, Pytorch, Ubuntu, Linux, Github, Weights&Biases, Cuda, Pandas, Numpy
+        - Tools - Python, PyTorch, Ubuntu, Linux, GitHub, Weights&Biases, CUDA, Pandas, Numpy
         - Skills - Training/Evaluation of Deep Networks, CNNs, Self-Supervised Learning, LSTMs
     - title: Robotics
       items:
