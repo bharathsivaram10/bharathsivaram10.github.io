@@ -30,7 +30,6 @@
       institution: Bush Combat Development Center
       year: 2023-Present
       description:
-        - Working on the Air-Ground Autonomy Team
 	- title: Working on multi-object tracking for autnonomous fleets:
 	  contents:
             - Fusing camera and lidar for efficient object localization
