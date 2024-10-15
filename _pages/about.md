@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BCDC (TAMU)</p>
-    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;U of MNa</p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;U of MN</p>
 
 news: true # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
