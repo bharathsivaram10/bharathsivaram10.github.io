@@ -14,7 +14,7 @@
       year: 2023
       description:
         - Gained understanding of the ML/DL fundamentals and implemented methods for popular computer vision tasks such as classification, segmentation and pose-estimation
-        - Lorem Ipsum 
+        - Experience in reproducing research papers and releasing open-source code, also implemented SLAM and other tasks on hardware through various course projects.
 
     - title: B.S. Mechanical Engineering
       institution: University of Minnesota
@@ -64,18 +64,15 @@
 - title: Tools/Skills
   type: nested_list
   contents:
-    - title: Computer Vision
+    - title: Languages
       items: 
-        - Tools - Python, MATLAB, OpenCV, PyTorch, SciKit Learn, Open3D
-        - Skills - Segmentation, 6D Pose Estimation, Stereo Vision, Tracking, Camera Calibration
-    - title: Machine Learning
+        - Python, MATLAB, OpenCV, PyTorch, SciKit Learn, Open3D
+    - title: Frameworks
       items:
-        - Tools - Python, PyTorch, Ubuntu, Linux, GitHub, Weights&Biases, CUDA, Pandas, Numpy
-        - Skills - Training/Evaluation of Deep Networks, CNNs, Self-Supervised Learning, LSTMs
-    - title: Robotics
+        - ROS, OpenCV, PyTorch, Numpy, Tensorflow, , Pandas, Scikit-learn, Spark
+    - title: Specialties
       items:
-        - Tools - ROS, PyBullet, PyRender, Ubuntu, Linux
-        - Skills - SLAM, Camera Calibration, Grasp Estimation
+        - Deep Learning, Camera-LiDAR Calibration, Object Tracking, Pose Estimation, System Integration  
 
 - title: Other Interests
   type: list
