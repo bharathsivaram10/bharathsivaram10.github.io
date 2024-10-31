@@ -66,7 +66,7 @@
   contents:
     - title: Languages
       items: 
-        - Python, MATLAB, OpenCV, PyTorch, SciKit Learn, Open3D
+        - C++, Python, MATLAB, OpenCV, PyTorch, SciKit Learn, Open3D
     - title: Frameworks
       items:
         - ROS, OpenCV, PyTorch, Numpy, Tensorflow, , Pandas, Scikit-learn, Spark
