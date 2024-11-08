@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Category-Level 
-description: Deep Learning for Robot Manipulation
-img: assets/img/pose_estimation.png
-redirect: https://github.com/sahithchada/NOCS_PyTorch
-importance: 2
+title: Video Prediction 
+description: Using ConvLSTM for climate prediction
+img: assets/img/weather_predict.png
+redirect: https://github.com/bharathsivaram10/Video-Prediction
+importance: 3
 category: projects
 ---
 

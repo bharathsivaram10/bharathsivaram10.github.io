@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Category-Level 
-description: Deep Learning for Robot Manipulation
+title: Category-Level 6D Object Pose/Size Estimation
+description: Re-implementation of NOCS paper using PyTorch
 img: assets/img/pose_estimation.png
 redirect: https://github.com/sahithchada/NOCS_PyTorch
-importance: 2
+importance: 1
 category: projects
 ---
 
